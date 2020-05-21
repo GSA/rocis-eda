@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+datetime
+BeautifulSoup4
+ipykernel
+xmltodict
+requests
+matplotlib
